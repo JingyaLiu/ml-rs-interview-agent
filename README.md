@@ -74,7 +74,10 @@ npx skills add JingyaLiu/ml-rs-interview-agent
   hooks.json + hooks/          # sessionStart injects profile + THIS_WEEK
 Learning-Vault/                # template memory (fill locally)
   profile.md
-  plan/THIS_WEEK.md
+  plan/
+    ML_JOB_SEARCH_PLAN.md      # employed multi-month plan
+    THIS_WEEK.md               # working week (prep-planner updates)
+    JUL_W1.md                  # example archived week
   behavioral/story-bank.md
   system-design/
   ml-coding/...
