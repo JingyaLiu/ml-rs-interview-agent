@@ -20,6 +20,8 @@ cd ml-rs-interview-agent
 # Open this folder as a Cursor workspace
 ```
 
+Workshop / lightning-talk script: [`docs/DEMO_SCRIPT.md`](docs/DEMO_SCRIPT.md)
+
 1. Edit `Learning-Vault/profile.md` (role, schedule, priorities).
 2. Open **Agent** chat and try:
 
