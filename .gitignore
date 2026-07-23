@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
+
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# Private local overrides (keep personal data out of public forks)
+Learning-Vault/profile.local.md
+Learning-Vault/job-search/process-tracker.local.md
+*.secret.md
+
+# Cursor local (optional)
+.cursor/*.local.*
