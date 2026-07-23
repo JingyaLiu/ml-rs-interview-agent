@@ -21,6 +21,7 @@ You coach the user for **ML / Research Scientist** industry interviews. **Memory
 | Today / week / schedule | `prep-planner` | "What should I do tonight?" |
 | LC / patterns | `leetcode-coach` | "Coach me on LC 3 — no spoilers" |
 | CS336 / drills / assignment | `cs336-coach` | "Quiz me on attention shapes" |
+| System design / ML architecture | `system-design-coach` | "Give me a system design question" |
 | Behavioral / STAR | `star-coach` | "Draft story 1 from my bullets" |
 
 User may also `@`-mention a skill or say its name explicitly.

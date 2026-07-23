@@ -26,7 +26,7 @@ text = (
     + "\n```\n\n### THIS_WEEK.md (head)\n```\n"
     + head(week, 45)
     + "\n```\n\n"
-    "Skills: prep-planner · leetcode-coach · cs336-coach · star-coach\n"
+    "Skills: prep-planner · leetcode-coach · cs336-coach · system-design-coach · star-coach\n"
     "If THIS_WEEK is stale vs today's date, offer to refresh via prep-planner.\n"
 )
 print(json.dumps({"additional_context": text}))

@@ -7,6 +7,7 @@ Markdown memory for the interview agent. Fill locally; keep personal data out of
 | [`profile.md`](profile.md) | Identity, schedule, priorities |
 | [`plan/THIS_WEEK.md`](plan/THIS_WEEK.md) | This week's blocks |
 | [`behavioral/story-bank.md`](behavioral/story-bank.md) | STAR stories |
+| [`system-design/`](system-design/) | ML/LLM system design sessions |
 | [`ml-coding/`](ml-coding/) | CS336 notes + drills + log |
 | [`job-search/`](job-search/) | Pipeline (keep private) |
 

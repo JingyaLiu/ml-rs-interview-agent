@@ -10,6 +10,7 @@ Full stage script: intro → how others install → live profile/plan → one co
 | Plan draft | skill `prep-planner` |
 | LeetCode | skill `leetcode-coach` |
 | CS336 | skill `cs336-coach` |
+| System design | skill `system-design-coach` |
 | STAR | skill `star-coach` |
 
 ## Live prompts
@@ -31,6 +32,10 @@ Use leetcode-coach. LC longest substring unique chars — UNDERSTAND → RECOGNI
 
 ```text
 Use cs336-coach. Multi-head attention shapes like a whiteboard interview. One quiz question after.
+```
+
+```text
+Use system-design-coach. Give me one retrieval system design question. Do not solve — wait for my clarifications.
 ```
 
 ## How someone starts

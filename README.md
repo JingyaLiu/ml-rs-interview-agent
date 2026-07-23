@@ -6,6 +6,7 @@ Coaches:
 - **prep-planner** — schedule-aware weekly/daily plan
 - **leetcode-coach** — pattern-first LC (no spoilers)
 - **cs336-coach** — Stanford CS336 / from-scratch LLM drills
+- **system-design-coach** — ML/LLM system design questions + mocks
 - **star-coach** — behavioral STAR story bank
 
 > **Privacy:** This template has **no personal identity**. Fill `Learning-Vault/profile.md` locally and keep your real vault private (or gitignore it).
@@ -35,6 +36,10 @@ Coach me on LC 3 — don't give the answer yet
 
 ```text
 Quiz me on multi-head attention shapes
+```
+
+```text
+Give me a system design question for retrieval
 ```
 
 ```text
@@ -76,7 +81,10 @@ Learning-Vault/                # template memory (fill locally)
   ml-coding/...
 ```
 
-**Mental model:** Vault = memory · Rule = identity · Skills = coaches · Hook = context
+- **Vault** = memory · **Rule** = identity · **Skills** = coaches · **Hook** = context
+
+Skills: prep-planner · leetcode-coach · cs336-coach · system-design-coach · star-coach
+
 
 ---
 

@@ -59,6 +59,7 @@ Then edit the vault file. Don't leave the plan only in chat.
 
 - LC night → `leetcode-coach`
 - Drill night → `cs336-coach`
+- System design block → `system-design-coach`
 - Sunday stories → `star-coach`
 
 ## Anti-patterns
