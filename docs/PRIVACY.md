@@ -21,4 +21,4 @@ This template ships **without** personal identity. If you fork publicly:
 - Personal name, employer, LinkedIn
 - Career timeline / school / citation details
 - Specific company job IDs and outreach targets
-- Workshop / calendar personal notes
+- Personal calendar notes or talk scripts

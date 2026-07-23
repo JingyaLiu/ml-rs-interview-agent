@@ -21,8 +21,6 @@ cd ml-rs-interview-agent
 # Open this folder as a Cursor workspace
 ```
 
-Workshop / lightning-talk script: [`docs/DEMO_SCRIPT.md`](docs/DEMO_SCRIPT.md)
-
 1. Edit `Learning-Vault/profile.md` (role, schedule, priorities).
 2. Open **Agent** chat and try:
 
@@ -72,21 +70,17 @@ npx skills add JingyaLiu/ml-rs-interview-agent
 ```
 .cursor/
   rules/interview-prep.mdc     # always-on vault-first coach
-  skills/{prep-planner,leetcode-coach,cs336-coach,star-coach}/
+  skills/{prep-planner,leetcode-coach,cs336-coach,system-design-coach,star-coach}/
   hooks.json + hooks/          # sessionStart injects profile + THIS_WEEK
 Learning-Vault/                # template memory (fill locally)
   profile.md
   plan/THIS_WEEK.md
   behavioral/story-bank.md
+  system-design/
   ml-coding/...
 ```
 
-- **Vault** = memory · **Rule** = identity · **Skills** = coaches · **Hook** = context
-
-Skills: prep-planner · leetcode-coach · cs336-coach · system-design-coach · star-coach
-
-
----
+**Mental model:** Vault = memory · Rule = identity · Skills = coaches · Hook = context
 
 ## Optional daily nudge
 
