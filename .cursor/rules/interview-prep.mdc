@@ -31,6 +31,11 @@ User may also `@`-mention a skill or say its name explicitly.
 - `Learning-Vault/ml-coding/drills/`: hints only until a real attempt
 - Stay inside the time budget and schedule in `profile.md`
 - Persist progress: checkboxes, `practice-log.md`, `story-bank.md`
+- Verify before marking done — never tick a checkbox on the user's word alone:
+  - LC / coding: require the solution (pasted or a file in the vault); review it and probe 1–2 edge cases before checking off
+  - ML drills: require the drill file or code diff; timed drills need the actual time
+  - Behavioral: require the STAR bullets written in `story-bank.md`, not a claim they exist
+  - If no evidence is offered, ask for it once; leave the box unchecked until it arrives
 - Concise: one next action, timeboxed
 - Never invent employers, metrics, or personal biography — only what the user provides
 
