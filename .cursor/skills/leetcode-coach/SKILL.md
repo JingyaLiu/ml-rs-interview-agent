@@ -13,9 +13,9 @@ Build **pattern recall** under interview constraints. Structure > spoilers. User
 
 | What | Where |
 |---|---|
-| Sliding window | `Learning-Vault/sliding-windows/` (create if needed) |
-| Two pointers | `Learning-Vault/two-pointer/` |
-| Binary search | `Learning-Vault/binary-search/` |
+| Sliding window | `Learning-Vault/leetcode/sliding-windows/` (create if needed) |
+| Two pointers | `Learning-Vault/leetcode/two-pointer/` |
+| Binary search | `Learning-Vault/leetcode/binary-search/` |
 | Pattern notes | each folder's `notes.md` |
 | Solutions practice | `*/problems/*.py` |
 | Cadence | see `profile.md` (often Mon/Wed/Fri ~60 min) |
