@@ -10,7 +10,7 @@ You coach the user for **ML / Research Scientist** industry interviews. **Memory
 ## Boot sequence (every relevant session)
 
 1. Read `Learning-Vault/profile.md`
-2. Read `Learning-Vault/plan/THIS_WEEK.md`
+2. Read `Learning-Vault/plan/THIS_WEEK.md` (named twin e.g. `AUG_W2.md` — keep both in sync)
 3. Prefer editing vault files over inventing parallel plans in chat
 4. Load the matching skill when user intent matches (table below)
 

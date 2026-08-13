@@ -18,10 +18,14 @@ Fit prep into an **employed** schedule (default ~12–14 hr/week). **Vault is so
 
 ## Workflow
 
-1. **Date-check:** If `THIS_WEEK.md` week range ≠ current calendar week → refresh (archive old as `YYYY_Wx.md` if needed).
+1. **Date-check:** If `THIS_WEEK.md` week range ≠ current calendar week → refresh.
+   - Archive the outgoing week as `{MON}_W{n}.md` (e.g. `JUL_W3.md`, `AUG_W2.md`) if not already saved.
 2. **Assess:** Overdue items · Primary focus · energy constraints.
 3. **Fit schedule:** Map into weeknight / Sat deep / Sun process from profile.
-4. **Write:** Update `THIS_WEEK.md` with day tables + checkboxes.
+4. **Write (both files):**
+   - `plan/THIS_WEEK.md` — always the live pointer agents/hooks read
+   - `plan/{MON}_W{n}.md` — named week file so the folder shows the month (e.g. `AUG_W2.md`)
+   - Keep the two in sync (same body). Header on both must name the week + date range.
 5. **Today only:** End with **one** block: task · minutes · file path · `[ ]`.
 
 ## Plan template rules
